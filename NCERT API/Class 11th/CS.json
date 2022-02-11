@@ -1,0 +1,64 @@
+{
+    "studyMaterialCS": [
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs1ps.pdf",
+            "Title": "Contents",
+            "chNo": "0"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs101.pdf",
+            "Title": "Computer System",
+            "chNo": "1"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs102.pdf",
+            "Title": "Encoding Schemes and Number System",
+            "chNo": "2"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs103.pdf",
+            "Title": "Emerging Trends",
+            "chNo": "3"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs104.pdf",
+            "Title": "Introduction to Problem Solving",
+            "chNo": "4"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs105.pdf",
+            "Title": "Getting Started with Python",
+            "chNo": "5"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs106.pdf",
+            "Title": "Flow of Control",
+            "chNo": "6"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs107.pdf",
+            "Title": "Functions",
+            "chNo": "7"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs108.pdf",
+            "Title": "Strings",
+            "chNo": "8"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs109.pdf",
+            "Title": "Lists",
+            "chNo": "9"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs110.pdf",
+            "Title": "Tuples and Dictionaries",
+            "chNo": "10"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2011th/Computer%20Science/kecs111.pdf",
+            "Title": "Societal Impact",
+            "chNo": "11"
+        }
+    ]
+}
