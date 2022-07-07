@@ -1,0 +1,75 @@
+{
+    "studyMaterialCS": [
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs1ps.pdf",
+            "Title": "Contents",
+            "chNo": "0"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs101.pdf",
+            "Title": "Exception Handling in Python",
+            "chNo": "1"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs102.pdf",
+            "Title": "File Handling in Python",
+            "chNo": "2"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs103.pdf",
+            "Title": "Stack",
+            "chNo": "3"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs104.pdf",
+            "Title": "Queue",
+            "chNo": "4"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs105.pdf",
+            "Title": "Sorting",
+            "chNo": "5"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs106.pdf",
+            "Title": "Searching",
+            "chNo": "6"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs107.pdf",
+            "Title": "Understanding Data",
+            "chNo": "7"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs108.pdf",
+            "Title": "Database Concepts",
+            "chNo": "8"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs109.pdf",
+            "Title": "Structured Query Language (SQL)",
+            "chNo": "9"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs110.pdf",
+            "Title": "Computer Networks",
+            "chNo": "10"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs111.pdf",
+            "Title": "Data Communication",
+            "chNo": "11"
+        }
+        ,
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs112.pdf",
+            "Title": "Security Aspects",
+            "chNo": "12"
+        },
+        {
+            "Link": "https://tworoot2.github.io/NCERT_Books/NCERT%20Books/Class%2012th/Computer%20Science/lecs113.pdf",
+            "Title": "Project Based Learning",
+            "chNo": "13"
+        }
+    ]
+}
